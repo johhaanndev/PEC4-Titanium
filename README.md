@@ -46,5 +46,10 @@ Nivel de persecución_
 
 Tras realizar el completo diseño del nivel, se descubrió que había plataformas en las que no llegaba del todo, haciendo que sólo hubiera 1 posible camino. Para evitar eso, se han eliminado los colliders verticales de las plataformas, de esta manera puede realizar un salto extra cuando toque el límite de la plataforma y salvar el error. Pero las consecuencias es que puede quedarse enganchado un muy breve tiempo.
 
+**Comentarios**
+
+Se puede observar que las sprites del boss están incompletas, se quería obtener unos colores diferentes al jugador, con tonos rojizos y anaranjados. Debido a falta de tiempo, no se ha podido acabar de pintar como se deseaba.
+
 **Video demostración**
+
 https://www.youtube.com/watch?v=05InS-t0gOU&ab_channel=JohhaannDev
