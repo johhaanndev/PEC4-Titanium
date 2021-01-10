@@ -42,7 +42,7 @@ Boss: Como se ha dicho antes, el boss está desarrollado mayormente por animacio
 
 Además, esta animación permite al boss salirse de la sala de combate, pero también vuelve a entrar cuando la realiza en dirección a la sala. Este bug se puede solucionar haciendo que el boss ignore las colisiones con las paredes. O si queremos aprovehcar este bug para darle sensanción de poder, activar una animación que rompa la pared. A causa de falta de tiempo, no se ha podido desarrollar estas soluciones. Lamento los inconvenientes.
 
-Nivel de persecución_
+_Nivel de persecución_
 
 Tras realizar el completo diseño del nivel, se descubrió que había plataformas en las que no llegaba del todo, haciendo que sólo hubiera 1 posible camino. Para evitar eso, se han eliminado los colliders verticales de las plataformas, de esta manera puede realizar un salto extra cuando toque el límite de la plataforma y salvar el error. Pero las consecuencias es que puede quedarse enganchado un muy breve tiempo.
 
